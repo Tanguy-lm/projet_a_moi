@@ -1,0 +1,1 @@
+web: pip install . -U && projet_a_moi-run
